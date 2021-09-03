@@ -7,7 +7,7 @@ Possible extended usage includes modifying relationship among races directly.
 
 Install cheat engine, launch and enter game, launch script, wait a few seconds until notoriety values are shown, double click to modify.
 
-Notoriety points - level conversion can be found here.
+Notoriety points - level conversion can be found [here](https://www.egosoft.com:8444/confluence/display/X3WIKI/Ranks).
 
 ## Limits
 
