@@ -1,5 +1,5 @@
 # X3-notoriety-hack
-These cheat engine scripts allows direct notoriety modification of all races in X3FL including all major races, pirates, companies, Xenon and Kha'ak, without activating in-game script editor, thus leaving the game 'unmodified'.
+These Cheat Engine scripts allow direct notoriety modification of all races in X3 including all major races, pirates, companies (in X3FL), Xenon and Kha'ak, without activating in-game script editor, thus leaving the game 'unmodified'.
 
 Possible extended usage includes modifying relationship among races directly.
 
@@ -11,11 +11,11 @@ Notoriety points - level conversion can be found [here](https://www.egosoft.com:
 
 ## Limits
 
-Tested on X3FL 1.2. Expected to work on all versions. Will not work properly / will need modification if relationship among races is different from current status as in X3FL 1.2 normal start.
+Tested on X3FL 1.2, X3AP 3.3. Expected to work on all versions, even X3TC. Will not work properly / will need modification if relationship among races is different from current status as in normal game start.
 
 ## Motivation
 
-[Agents diplomacy exploit](https://forum.egosoft.com/viewtopic.php?f=199&t=439741#p5062135) is fixed in 1.2. The dynamic relationship system, despite interesting, become too troublesome to deal with, and unrealistically strict compared to real life diplomacy such that it kills fun. Thus this script is written to save the trouble. Feel free to use or not, and at your own risk.
+[Agents diplomacy exploit](https://forum.egosoft.com/viewtopic.php?f=199&t=439741#p5062135) is fixed in X3FL 1.2. The dynamic relationship system, despite interesting, become too troublesome to deal with, and unrealistically strict compared to real life diplomacy such that it kills fun. Thus this script is written to save the trouble. Feel free to use or not, and at your own risk.
 
 ## Mechanism
 
