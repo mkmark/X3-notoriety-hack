@@ -1,5 +1,5 @@
-# X3FL-notoriety-hack
-This cheat engine script allows direct notoriety modification of all races in X3FL including all major races, pirates, companies, Xenon and Kha'ak, without activating in-game script editor, thus leaving the game 'unmodified'.
+# X3-notoriety-hack
+These cheat engine scripts allows direct notoriety modification of all races in X3FL including all major races, pirates, companies, Xenon and Kha'ak, without activating in-game script editor, thus leaving the game 'unmodified'.
 
 Possible extended usage includes modifying relationship among races directly.
 
