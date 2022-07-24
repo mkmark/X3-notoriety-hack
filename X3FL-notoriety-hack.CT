@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<CheatTable CheatEngineTableVersion="34">
+<CheatTable CheatEngineTableVersion="42">
   <CheatEntries>
     <CheatEntry>
       <ID>136</ID>
@@ -132,71 +132,71 @@
   <Structures StructVersion="2">
     <Structure Name="notoriety" AutoFill="0" AutoCreate="1" DefaultHex="0" AutoDestroy="0" DoNotSaveLocal="0" RLECompression="1" AutoCreateStructsize="4096">
       <Elements>
-        <Element Offset="0" Vartype="Byte" Bytesize="1" RLECount="8" OffsetHex="00000000" DisplayMethod="Hexadecimal"/>
-        <Element Offset="8" Vartype="Byte" Bytesize="1" OffsetHex="00000008" DisplayMethod="Signed Integer"/>
-        <Element Offset="9" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000009" DisplayMethod="Signed Integer"/>
-        <Element Offset="13" Vartype="Byte" Bytesize="1" OffsetHex="0000000D" DisplayMethod="Signed Integer"/>
-        <Element Offset="14" Vartype="4 Bytes" Bytesize="4" OffsetHex="0000000E" DisplayMethod="Signed Integer"/>
-        <Element Offset="18" Vartype="Byte" Bytesize="1" OffsetHex="00000012" DisplayMethod="Signed Integer"/>
-        <Element Offset="19" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000013" DisplayMethod="Signed Integer"/>
-        <Element Offset="23" Vartype="Byte" Bytesize="1" OffsetHex="00000017" DisplayMethod="Signed Integer"/>
-        <Element Offset="24" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000018" DisplayMethod="Signed Integer"/>
-        <Element Offset="28" Vartype="Byte" Bytesize="1" OffsetHex="0000001C" DisplayMethod="Signed Integer"/>
-        <Element Offset="29" Vartype="4 Bytes" Bytesize="4" OffsetHex="0000001D" DisplayMethod="Signed Integer"/>
-        <Element Offset="33" Vartype="Byte" Bytesize="1" OffsetHex="00000021" DisplayMethod="Signed Integer"/>
-        <Element Offset="34" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000022" DisplayMethod="Signed Integer"/>
-        <Element Offset="38" Vartype="Byte" Bytesize="1" OffsetHex="00000026" DisplayMethod="Signed Integer"/>
-        <Element Offset="39" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000027" DisplayMethod="Signed Integer"/>
-        <Element Offset="43" Vartype="Byte" Bytesize="1" OffsetHex="0000002B" DisplayMethod="Signed Integer"/>
-        <Element Offset="44" Vartype="4 Bytes" Bytesize="4" OffsetHex="0000002C" DisplayMethod="Signed Integer"/>
-        <Element Offset="48" Vartype="Byte" Bytesize="1" OffsetHex="00000030" DisplayMethod="Signed Integer"/>
-        <Element Offset="49" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000031" DisplayMethod="Signed Integer"/>
-        <Element Offset="53" Vartype="Byte" Bytesize="1" OffsetHex="00000035" DisplayMethod="Signed Integer"/>
-        <Element Offset="54" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000036" DisplayMethod="Signed Integer"/>
-        <Element Offset="58" Vartype="Byte" Bytesize="1" OffsetHex="0000003A" DisplayMethod="Signed Integer"/>
-        <Element Offset="59" Vartype="4 Bytes" Bytesize="4" OffsetHex="0000003B" DisplayMethod="Signed Integer"/>
-        <Element Offset="63" Vartype="Byte" Bytesize="1" OffsetHex="0000003F" DisplayMethod="Signed Integer"/>
-        <Element Offset="64" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000040" DisplayMethod="Signed Integer"/>
-        <Element Offset="68" Vartype="Byte" Bytesize="1" OffsetHex="00000044" DisplayMethod="Signed Integer"/>
-        <Element Offset="69" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000045" DisplayMethod="Signed Integer"/>
-        <Element Offset="73" Vartype="Byte" Bytesize="1" OffsetHex="00000049" DisplayMethod="Signed Integer"/>
-        <Element Offset="74" Vartype="4 Bytes" Bytesize="4" OffsetHex="0000004A" DisplayMethod="Signed Integer"/>
-        <Element Offset="78" Vartype="Byte" Bytesize="1" OffsetHex="0000004E" DisplayMethod="Signed Integer"/>
-        <Element Offset="79" Vartype="4 Bytes" Bytesize="4" OffsetHex="0000004F" DisplayMethod="Signed Integer"/>
-        <Element Offset="83" Vartype="Byte" Bytesize="1" OffsetHex="00000053" DisplayMethod="Signed Integer"/>
-        <Element Offset="84" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000054" DisplayMethod="Signed Integer"/>
-        <Element Offset="88" Vartype="Byte" Bytesize="1" OffsetHex="00000058" DisplayMethod="Signed Integer"/>
-        <Element Offset="89" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000059" DisplayMethod="Signed Integer"/>
-        <Element Offset="93" Vartype="Byte" Bytesize="1" OffsetHex="0000005D" DisplayMethod="Signed Integer"/>
-        <Element Offset="94" Vartype="4 Bytes" Bytesize="4" OffsetHex="0000005E" DisplayMethod="Signed Integer"/>
-        <Element Offset="98" Vartype="Byte" Bytesize="1" OffsetHex="00000062" DisplayMethod="Signed Integer"/>
-        <Element Offset="99" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000063" DisplayMethod="Signed Integer"/>
-        <Element Offset="103" Vartype="Byte" Bytesize="1" OffsetHex="00000067" DisplayMethod="Signed Integer"/>
-        <Element Offset="104" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000068" DisplayMethod="Signed Integer"/>
-        <Element Offset="108" Vartype="Byte" Bytesize="1" OffsetHex="0000006C" DisplayMethod="Signed Integer"/>
-        <Element Offset="109" Vartype="4 Bytes" Bytesize="4" OffsetHex="0000006D" DisplayMethod="Signed Integer"/>
-        <Element Offset="113" Vartype="Byte" Bytesize="1" OffsetHex="00000071" DisplayMethod="Signed Integer"/>
-        <Element Offset="114" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000072" DisplayMethod="Signed Integer"/>
-        <Element Offset="118" Vartype="Byte" Bytesize="1" OffsetHex="00000076" DisplayMethod="Signed Integer"/>
-        <Element Offset="119" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000077" DisplayMethod="Signed Integer"/>
-        <Element Offset="123" Vartype="Byte" Bytesize="1" OffsetHex="0000007B" DisplayMethod="Signed Integer"/>
-        <Element Offset="124" Vartype="4 Bytes" Bytesize="4" OffsetHex="0000007C" DisplayMethod="Signed Integer"/>
-        <Element Offset="128" Vartype="Byte" Bytesize="1" OffsetHex="00000080" DisplayMethod="Signed Integer"/>
-        <Element Offset="129" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000081" DisplayMethod="Signed Integer"/>
-        <Element Offset="133" Vartype="Byte" Bytesize="1" OffsetHex="00000085" DisplayMethod="Signed Integer"/>
-        <Element Offset="134" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000086" DisplayMethod="Signed Integer"/>
-        <Element Offset="138" Vartype="Byte" Bytesize="1" OffsetHex="0000008A" DisplayMethod="Signed Integer"/>
-        <Element Offset="139" Vartype="4 Bytes" Bytesize="4" OffsetHex="0000008B" DisplayMethod="Signed Integer"/>
-        <Element Offset="143" Vartype="Byte" Bytesize="1" OffsetHex="0000008F" DisplayMethod="Signed Integer"/>
-        <Element Offset="144" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000090" DisplayMethod="Signed Integer"/>
-        <Element Offset="148" Vartype="Byte" Bytesize="1" OffsetHex="00000094" DisplayMethod="Signed Integer"/>
-        <Element Offset="149" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000095" DisplayMethod="Signed Integer"/>
-        <Element Offset="153" Vartype="Byte" Bytesize="1" OffsetHex="00000099" DisplayMethod="Signed Integer"/>
-        <Element Offset="154" Vartype="4 Bytes" Bytesize="4" OffsetHex="0000009A" DisplayMethod="Signed Integer"/>
-        <Element Offset="158" Vartype="Byte" Bytesize="1" OffsetHex="0000009E" DisplayMethod="Signed Integer"/>
-        <Element Offset="159" Vartype="4 Bytes" Bytesize="4" OffsetHex="0000009F" DisplayMethod="Signed Integer"/>
-        <Element Offset="163" Vartype="Byte" Bytesize="1" OffsetHex="000000A3" DisplayMethod="Signed Integer"/>
-        <Element Offset="164" Vartype="4 Bytes" Bytesize="4" OffsetHex="000000A4" DisplayMethod="Signed Integer"/>
+        <Element Offset="0" Vartype="Byte" Bytesize="1" RLECount="8" OffsetHex="00000000" DisplayMethod="hexadecimal"/>
+        <Element Offset="8" Vartype="Byte" Bytesize="1" OffsetHex="00000008" DisplayMethod="signed integer"/>
+        <Element Offset="9" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000009" DisplayMethod="signed integer"/>
+        <Element Offset="13" Vartype="Byte" Bytesize="1" OffsetHex="0000000D" DisplayMethod="signed integer"/>
+        <Element Offset="14" Vartype="4 Bytes" Bytesize="4" OffsetHex="0000000E" DisplayMethod="signed integer"/>
+        <Element Offset="18" Vartype="Byte" Bytesize="1" OffsetHex="00000012" DisplayMethod="signed integer"/>
+        <Element Offset="19" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000013" DisplayMethod="signed integer"/>
+        <Element Offset="23" Vartype="Byte" Bytesize="1" OffsetHex="00000017" DisplayMethod="signed integer"/>
+        <Element Offset="24" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000018" DisplayMethod="signed integer"/>
+        <Element Offset="28" Vartype="Byte" Bytesize="1" OffsetHex="0000001C" DisplayMethod="signed integer"/>
+        <Element Offset="29" Vartype="4 Bytes" Bytesize="4" OffsetHex="0000001D" DisplayMethod="signed integer"/>
+        <Element Offset="33" Vartype="Byte" Bytesize="1" OffsetHex="00000021" DisplayMethod="signed integer"/>
+        <Element Offset="34" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000022" DisplayMethod="signed integer"/>
+        <Element Offset="38" Vartype="Byte" Bytesize="1" OffsetHex="00000026" DisplayMethod="signed integer"/>
+        <Element Offset="39" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000027" DisplayMethod="signed integer"/>
+        <Element Offset="43" Vartype="Byte" Bytesize="1" OffsetHex="0000002B" DisplayMethod="signed integer"/>
+        <Element Offset="44" Vartype="4 Bytes" Bytesize="4" OffsetHex="0000002C" DisplayMethod="signed integer"/>
+        <Element Offset="48" Vartype="Byte" Bytesize="1" OffsetHex="00000030" DisplayMethod="signed integer"/>
+        <Element Offset="49" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000031" DisplayMethod="signed integer"/>
+        <Element Offset="53" Vartype="Byte" Bytesize="1" OffsetHex="00000035" DisplayMethod="signed integer"/>
+        <Element Offset="54" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000036" DisplayMethod="signed integer"/>
+        <Element Offset="58" Vartype="Byte" Bytesize="1" OffsetHex="0000003A" DisplayMethod="signed integer"/>
+        <Element Offset="59" Vartype="4 Bytes" Bytesize="4" OffsetHex="0000003B" DisplayMethod="signed integer"/>
+        <Element Offset="63" Vartype="Byte" Bytesize="1" OffsetHex="0000003F" DisplayMethod="signed integer"/>
+        <Element Offset="64" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000040" DisplayMethod="signed integer"/>
+        <Element Offset="68" Vartype="Byte" Bytesize="1" OffsetHex="00000044" DisplayMethod="signed integer"/>
+        <Element Offset="69" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000045" DisplayMethod="signed integer"/>
+        <Element Offset="73" Vartype="Byte" Bytesize="1" OffsetHex="00000049" DisplayMethod="signed integer"/>
+        <Element Offset="74" Vartype="4 Bytes" Bytesize="4" OffsetHex="0000004A" DisplayMethod="signed integer"/>
+        <Element Offset="78" Vartype="Byte" Bytesize="1" OffsetHex="0000004E" DisplayMethod="signed integer"/>
+        <Element Offset="79" Vartype="4 Bytes" Bytesize="4" OffsetHex="0000004F" DisplayMethod="signed integer"/>
+        <Element Offset="83" Vartype="Byte" Bytesize="1" OffsetHex="00000053" DisplayMethod="signed integer"/>
+        <Element Offset="84" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000054" DisplayMethod="signed integer"/>
+        <Element Offset="88" Vartype="Byte" Bytesize="1" OffsetHex="00000058" DisplayMethod="signed integer"/>
+        <Element Offset="89" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000059" DisplayMethod="signed integer"/>
+        <Element Offset="93" Vartype="Byte" Bytesize="1" OffsetHex="0000005D" DisplayMethod="signed integer"/>
+        <Element Offset="94" Vartype="4 Bytes" Bytesize="4" OffsetHex="0000005E" DisplayMethod="signed integer"/>
+        <Element Offset="98" Vartype="Byte" Bytesize="1" OffsetHex="00000062" DisplayMethod="signed integer"/>
+        <Element Offset="99" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000063" DisplayMethod="signed integer"/>
+        <Element Offset="103" Vartype="Byte" Bytesize="1" OffsetHex="00000067" DisplayMethod="signed integer"/>
+        <Element Offset="104" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000068" DisplayMethod="signed integer"/>
+        <Element Offset="108" Vartype="Byte" Bytesize="1" OffsetHex="0000006C" DisplayMethod="signed integer"/>
+        <Element Offset="109" Vartype="4 Bytes" Bytesize="4" OffsetHex="0000006D" DisplayMethod="signed integer"/>
+        <Element Offset="113" Vartype="Byte" Bytesize="1" OffsetHex="00000071" DisplayMethod="signed integer"/>
+        <Element Offset="114" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000072" DisplayMethod="signed integer"/>
+        <Element Offset="118" Vartype="Byte" Bytesize="1" OffsetHex="00000076" DisplayMethod="signed integer"/>
+        <Element Offset="119" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000077" DisplayMethod="signed integer"/>
+        <Element Offset="123" Vartype="Byte" Bytesize="1" OffsetHex="0000007B" DisplayMethod="signed integer"/>
+        <Element Offset="124" Vartype="4 Bytes" Bytesize="4" OffsetHex="0000007C" DisplayMethod="signed integer"/>
+        <Element Offset="128" Vartype="Byte" Bytesize="1" OffsetHex="00000080" DisplayMethod="signed integer"/>
+        <Element Offset="129" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000081" DisplayMethod="signed integer"/>
+        <Element Offset="133" Vartype="Byte" Bytesize="1" OffsetHex="00000085" DisplayMethod="signed integer"/>
+        <Element Offset="134" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000086" DisplayMethod="signed integer"/>
+        <Element Offset="138" Vartype="Byte" Bytesize="1" OffsetHex="0000008A" DisplayMethod="signed integer"/>
+        <Element Offset="139" Vartype="4 Bytes" Bytesize="4" OffsetHex="0000008B" DisplayMethod="signed integer"/>
+        <Element Offset="143" Vartype="Byte" Bytesize="1" OffsetHex="0000008F" DisplayMethod="signed integer"/>
+        <Element Offset="144" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000090" DisplayMethod="signed integer"/>
+        <Element Offset="148" Vartype="Byte" Bytesize="1" OffsetHex="00000094" DisplayMethod="signed integer"/>
+        <Element Offset="149" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000095" DisplayMethod="signed integer"/>
+        <Element Offset="153" Vartype="Byte" Bytesize="1" OffsetHex="00000099" DisplayMethod="signed integer"/>
+        <Element Offset="154" Vartype="4 Bytes" Bytesize="4" OffsetHex="0000009A" DisplayMethod="signed integer"/>
+        <Element Offset="158" Vartype="Byte" Bytesize="1" OffsetHex="0000009E" DisplayMethod="signed integer"/>
+        <Element Offset="159" Vartype="4 Bytes" Bytesize="4" OffsetHex="0000009F" DisplayMethod="signed integer"/>
+        <Element Offset="163" Vartype="Byte" Bytesize="1" OffsetHex="000000A3" DisplayMethod="signed integer"/>
+        <Element Offset="164" Vartype="4 Bytes" Bytesize="4" OffsetHex="000000A4" DisplayMethod="signed integer"/>
       </Elements>
     </Structure>
   </Structures>
@@ -260,32 +260,32 @@ local function playerRaceAddress(raceName, aobAddressStart, aobAddressEnd)
   else
     playerRaceAddressStrList = AOBScanRange(aobRace, '*X*W', fsmNotAligned, '0', aobAddressStart, aobAddressEnd)
   end
-  -- no result, check aob, or try to expand range
+  -- no result, try to scan all
   if playerRaceAddressStrList == nil then
-    print(raceName..'Address aobscan failed')
+    playerRaceAddressStrList = AOBScan(aobRace)
+  end
+  -- still no result, sth could be wrong
+  if playerRaceAddressStrList == nil then
+    print(raceName..' address aobscan failed')
     return 0
   end
   -- multiple results, sth could be wrong
   if playerRaceAddressStrList.Count ~= 1 then
-    print(raceName..'Address aobscan returns multiple results')
+    print(raceName..' address aobscan returns multiple results')
     return 0
   end
   -- all good
   local address = tonumber(playerRaceAddressStrList[0], 16) + 0x33
   --print(address)
   --print(('%X'):format(address))
+  -- define aob range to optimize speed
+  rangeStart = address - 0xFFFFFF
+  rangeEnd = address + 0xFFFFFF
   return address
 end
 
 -- main
--- find playerArgonAddress
 playerArgonAddress      = playerRaceAddress('Argon')
-
--- define aob range to optimize speed
-rangeStart = playerArgonAddress - 0xFFFFF
-rangeEnd = playerArgonAddress + 0xFFFFF
-
--- find playerRaceAddress
 playerBoronAddress      = playerRaceAddress('Boron',      rangeStart, rangeEnd)
 playerSplitAddress      = playerRaceAddress('Split',      rangeStart, rangeEnd)
 playerParanidAddress    = playerRaceAddress('Paranid',    rangeStart, rangeEnd)
